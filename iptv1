@@ -1,0 +1,489 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Prime De Sarbatori" tvg-logo="https://i.ibb.co/yXT856v/prime-de-craciun.png" group-title="Romania",Prime De Sarbatori
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/50848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="***  Romania Tv INFO ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",***  Romania Tv INFO ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="***  INFO UK Tv INFO ***" tvg-logo="https://i.ibb.co/k3rpydh/Prime.png" group-title="Romania",***  INFO UK Tv INFO ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/43380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIDAS COLINDE HD" tvg-logo="https://i.ibb.co/4tBLpcH/lidas-1.png" group-title="Romania",LIDAS COLINDE HD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/51027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live  MIREASA" tvg-logo="" group-title="Romania",Live  MIREASA
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/44586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digi 4 K" tvg-logo="https://i.ibb.co/VCG9TNn/Digi-4-K.jpg" group-title="Romania",Digi 4 K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/35093.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="PRO TV SD" tvg-logo="https://i.ibb.co/mqH1pMJ/protv-bun.jpg" group-title="Romania",PRO TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8029.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="PRO TV FHD" tvg-logo="https://i.ibb.co/mqH1pMJ/protv-bun.jpg" group-title="Romania",PRO TV FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8027.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="PRO TV 2K" tvg-logo="https://i.ibb.co/mqH1pMJ/protv-bun.jpg" group-title="Romania",PRO TV 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8028.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV 4K" tvg-logo="https://i.ibb.co/mqH1pMJ/protv-bun.jpg" group-title="Romania",Pro TV 4K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/21535.m3u8
+#EXTINF:-1 tvg-id="protvinternational.ro" tvg-name="ProTV International" tvg-logo="https://i.ibb.co/D5Gh2RL/pro-tv-international.jpg" group-title="Romania",ProTV International
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41248.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="ANTENA 1 SD" tvg-logo="https://i.ibb.co/3zkDfxD/antena-1.png" group-title="Romania",ANTENA 1 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8038.m3u8
+#EXTINF:-1 tvg-id="antena1hd.ro" tvg-name="ANTENA 1 FHD" tvg-logo="https://i.ibb.co/3zkDfxD/antena-1.png" group-title="Romania",ANTENA 1 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8037.m3u8
+#EXTINF:-1 tvg-id="antena1hd.ro" tvg-name="ANTENA 1 2K" tvg-logo="https://i.ibb.co/3zkDfxD/antena-1.png" group-title="Romania",ANTENA 1 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8036.m3u8
+#EXTINF:-1 tvg-id="antena1hd.ro" tvg-name="Antena 1 4K" tvg-logo="https://i.ibb.co/3zkDfxD/antena-1.png" group-title="Romania",Antena 1 4K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/19393.m3u8
+#EXTINF:-1 tvg-id="antenainternational.ro" tvg-name="Antena International" tvg-logo="https://i.ibb.co/Lx7bHVx/antena-international.jpg" group-title="Romania",Antena International
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41249.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="KANAL D SD" tvg-logo="https://i.ibb.co/pz77mJq/Kanal-D.png" group-title="Romania",KANAL D SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8045.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="KANAL D FHD" tvg-logo="https://i.ibb.co/pz77mJq/Kanal-D.png" group-title="Romania",KANAL D FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8044.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="KanalD UHD" tvg-logo="https://i.ibb.co/pz77mJq/Kanal-D.png" group-title="Romania",KanalD UHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41117.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="KANAL D 2K" tvg-logo="https://i.ibb.co/pz77mJq/Kanal-D.png" group-title="Romania",KANAL D 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8043.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="ANTENA 3 SD" tvg-logo="https://i.ibb.co/NtCCwkm/antena-3.png" group-title="Romania",ANTENA 3 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8040.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="ANTENA 3 FHD" tvg-logo="https://i.ibb.co/NtCCwkm/antena-3.png" group-title="Romania",ANTENA 3 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8039.m3u8
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="ANTENA STARS SD" tvg-logo="https://i.ibb.co/ZXQ9HwQ/antena-star.png" group-title="Romania",ANTENA STARS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8042.m3u8
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="ANTENA STARS FHD" tvg-logo="https://i.ibb.co/ZXQ9HwQ/antena-star.png" group-title="Romania",ANTENA STARS FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8041.m3u8
+#EXTINF:-1 tvg-id="pro2.ro" tvg-name="PRO 2 SD" tvg-logo="https://i.ibb.co/cYvbwmv/acasa-tv.png" group-title="Romania",PRO 2 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8031.m3u8
+#EXTINF:-1 tvg-id="pro2.ro" tvg-name="PRO 2 FHD" tvg-logo="https://i.ibb.co/cYvbwmv/acasa-tv.png" group-title="Romania",PRO 2 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8030.m3u8
+#EXTINF:-1 tvg-id="prox.ro" tvg-name="PRO X SD" tvg-logo="https://i.ibb.co/0mH7rq4/pro-x.png" group-title="Romania",PRO X SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8033.m3u8
+#EXTINF:-1 tvg-id="prox.ro" tvg-name="PRO X FHD" tvg-logo="https://i.ibb.co/0mH7rq4/pro-x.png" group-title="Romania",PRO X FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8032.m3u8
+#EXTINF:-1 tvg-id="progold.ro" tvg-name="PRO GOLD SD" tvg-logo="https://i.ibb.co/rsRnCGf/acasa-gold.png" group-title="Romania",PRO GOLD SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8034.m3u8
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="PRO CINEMA SD" tvg-logo="https://i.ibb.co/mD7ZLt9/pro-cinema.png" group-title="Romania",PRO CINEMA SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8035.m3u8
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="PRIMA TV SD" tvg-logo="https://i.ibb.co/DbnH6Lz/prima-TV.png" group-title="Romania",PRIMA TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8048.m3u8
+#EXTINF:-1 tvg-id="b1tv.ro" tvg-name="B1 TV SD" tvg-logo="https://i.ibb.co/sV6sLfW/B1.png" group-title="Romania",B1 TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8054.m3u8
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="N 24 PLUS SD" tvg-logo="https://i.ibb.co/m55T2z2/national-24-plus.jpg" group-title="Romania",N 24 PLUS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8050.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="DIGI 24 SD" tvg-logo="https://i.ibb.co/mqksNGq/digi-24-HD.png" group-title="Romania",DIGI 24 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8053.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="DIGI 24 FHD" tvg-logo="https://i.ibb.co/mqksNGq/digi-24-HD.png" group-title="Romania",DIGI 24 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8052.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="DIGI 24 2K" tvg-logo="https://i.ibb.co/mqksNGq/digi-24-HD.png" group-title="Romania",DIGI 24 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8051.m3u8
+#EXTINF:-1 tvg-id="romaniatv.ro" tvg-name="ROMANIA TV SD" tvg-logo="https://i.ibb.co/YLVXzds/romania-TV.png" group-title="Romania",ROMANIA TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8059.m3u8
+#EXTINF:-1 tvg-id="realitateatv.ro" tvg-name="REALITATEA TV PLUS SD" tvg-logo="https://i.ibb.co/prWXFnd/realitatea-tv.png" group-title="Romania",REALITATEA TV PLUS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8060.m3u8
+#EXTINF:-1 tvg-id="nationaltv.ro" tvg-name="NATIONAL TV SD" tvg-logo="https://i.ibb.co/Nnf2tXF/national-tv.jpg" group-title="Romania",NATIONAL TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8049.m3u8
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="TVR INTERNATIONAL SD" tvg-logo="https://i.ibb.co/tYmNpxh/desc-rcare.jpg" group-title="Romania",TVR INTERNATIONAL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8207.m3u8
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 SD" tvg-logo="https://i.ibb.co/z63hBBB/LTEuc-G5n-Jmhhc2g9-ODky-YWMz-ZTdj-NGE4-MDc5-Zj-Zj-Mm-Y3-NTRl-OGU4-ZGFj-Yz-M.png" group-title="Romania",TVR 1 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8056.m3u8
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2 SD" tvg-logo="https://i.ibb.co/p3fRh7q/tvr-2.png" group-title="Romania",TVR 2 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8057.m3u8
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3 SD" tvg-logo="https://i.ibb.co/mX3DYTY/tvr-3.jpg" group-title="Romania",TVR 3 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8058.m3u8
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 FHD" tvg-logo="https://i.ibb.co/W6DfGCh/tvr-hd.png" group-title="Romania",TVR 1 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*** FILME ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",*** FILME ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Timeless Drama Channel FHD" tvg-logo="" group-title="Romania",Timeless Drama Channel FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/25650.m3u8
+#EXTINF:-1 tvg-id="axnwhite.ro" tvg-name="AXN WHITE SD" tvg-logo="" group-title="Romania",AXN WHITE SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8094.m3u8
+#EXTINF:-1 tvg-id="axnspin.ro" tvg-name="AXN SPIN SD" tvg-logo="https://i.ibb.co/1L7jVSY/desc-rcare.png" group-title="Romania",AXN SPIN SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8093.m3u8
+#EXTINF:-1 tvg-id="axn.ro" tvg-name="AXN SD" tvg-logo="" group-title="Romania",AXN SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8091.m3u8
+#EXTINF:-1 tvg-id="axn.ro" tvg-name="AXN FHD" tvg-logo="" group-title="Romania",AXN FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8090.m3u8
+#EXTINF:-1 tvg-id="axnblack.ro" tvg-name="AXN BLACK SD" tvg-logo="" group-title="Romania",AXN BLACK SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8092.m3u8
+#EXTINF:-1 tvg-id="hbo.ro" tvg-name="HBO FHD" tvg-logo="" group-title="Romania",HBO FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8096.m3u8
+#EXTINF:-1 tvg-id="hbo2.ro" tvg-name="HBO 2 FHD" tvg-logo="" group-title="Romania",HBO 2 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8097.m3u8
+#EXTINF:-1 tvg-id="hbo.ro" tvg-name="HBO 2K" tvg-logo="https://i.ibb.co/8BF3nxt/hbo.jpg" group-title="Romania",HBO 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8095.m3u8
+#EXTINF:-1 tvg-id="hbo3.ro" tvg-name="HBO 3 FHD" tvg-logo="" group-title="Romania",HBO 3 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8098.m3u8
+#EXTINF:-1 tvg-id="amc.ro" tvg-name="AMC" tvg-logo="" group-title="Romania",AMC
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/20208.m3u8
+#EXTINF:-1 tvg-id="tv1000.ro" tvg-name="TV1000 SD" tvg-logo="" group-title="Romania",TV1000 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8115.m3u8
+#EXTINF:-1 tvg-id="cinemax2.ro" tvg-name="CINEMAX 2 SD" tvg-logo="" group-title="Romania",CINEMAX 2 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1 FHD" tvg-logo="" group-title="Romania",CINEMAX 1 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8101.m3u8
+#EXTINF:-1 tvg-id="filmboxpremium.ro" tvg-name="FilmBox Premium" tvg-logo="https://i.ibb.co/g7sPsHb/desc-rcare-22.jpg" group-title="Romania",FilmBox Premium
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8242.m3u8
+#EXTINF:-1 tvg-id="filmboxfamily.ro" tvg-name="FilmBox Family" tvg-logo="" group-title="Romania",FilmBox Family
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8241.m3u8
+#EXTINF:-1 tvg-id="filmboxextra.ro" tvg-name="FilmBox Extra HD" tvg-logo="" group-title="Romania",FilmBox Extra HD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8237.m3u8
+#EXTINF:-1 tvg-id="filmbox.ro" tvg-name="FilmBox" tvg-logo="" group-title="Romania",FilmBox
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8240.m3u8
+#EXTINF:-1 tvg-id="fightbox.ro" tvg-name="Fight Box" tvg-logo="https://i.ibb.co/2SDQXmb/Fight-Box.png" group-title="Romania",Fight Box
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8221.m3u8
+#EXTINF:-1 tvg-id="cinemaraton.ro" tvg-name="CINEMARATON SD" tvg-logo="https://i.ibb.co/DGv4Dp8/desc-rcare.png" group-title="Romania",CINEMARATON SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8106.m3u8
+#EXTINF:-1 tvg-id="cinemaraton.ro" tvg-name="CINEMARATON FHD" tvg-logo="https://i.ibb.co/DGv4Dp8/desc-rcare.png" group-title="Romania",CINEMARATON FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8105.m3u8
+#EXTINF:-1 tvg-id="filmnow.ro" tvg-name="FILM NOW FHD" tvg-logo="https://i.ibb.co/N6XSGzY/desc-rcare-1.jpg" group-title="Romania",FILM NOW FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8100.m3u8
+#EXTINF:-1 tvg-id="filmnow.ro" tvg-name="FILM NOW 2K" tvg-logo="https://i.ibb.co/N6XSGzY/desc-rcare-1.jpg" group-title="Romania",FILM NOW 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8099.m3u8
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="HAPPY CHANNEL SD" tvg-logo="https://i.ibb.co/N1ymQgH/desc-rcare.jpg" group-title="Romania",HAPPY CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8047.m3u8
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="HAPPY CHANNEL FHD" tvg-logo="https://i.ibb.co/N1ymQgH/desc-rcare.jpg" group-title="Romania",HAPPY CHANNEL FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8046.m3u8
+#EXTINF:-1 tvg-id="epicdrama.ro" tvg-name="EPIC DRAMA SD" tvg-logo="https://i.ibb.co/wJN5c9c/Epic-Drama-Logo.png" group-title="Romania",EPIC DRAMA SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8110.m3u8
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="BOLLYWOOD TV HD" tvg-logo="https://i.ibb.co/xz7mw16/bollywood-tv.jpg" group-title="Romania",BOLLYWOOD TV HD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8103.m3u8
+#EXTINF:-1 tvg-id="filmcafe.ro" tvg-name="FILM CAFE SD" tvg-logo="https://i.ibb.co/KDgs1xY/YTQ5-Nm-E3-Mzg4-MTU1-OGRl-Yzcw-NWFi-ZTY4-MTlm-OTFk.jpg" group-title="Romania",FILM CAFE SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8112.m3u8
+#EXTINF:-1 tvg-id="epicdrama.ro" tvg-name="EPIC DRAMA FHD" tvg-logo="https://i.ibb.co/wJN5c9c/Epic-Drama-Logo.png" group-title="Romania",EPIC DRAMA FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYEST SD" tvg-logo="https://i.ibb.co/t3WybPw/desc-rcare-2.jpg" group-title="Romania",COMEDYEST SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8107.m3u8
+#EXTINF:-1 tvg-id="comedycentral.ro" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="Romania",COMEDY CENTRAL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8104.m3u8
+#EXTINF:-1 tvg-id="cinethronix.ro" tvg-name="CINETHRONIX SD" tvg-logo="https://i.ibb.co/vvzjFc6/Cinethronix.png" group-title="Romania",CINETHRONIX SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8108.m3u8
+#EXTINF:-1 tvg-id="tnt.ro" tvg-name="TNT SD" tvg-logo="https://i.ibb.co/Dg5R01W/desc-rcare-3.png" group-title="Romania",TNT SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8114.m3u8
+#EXTINF:-1 tvg-id="tlc.ro" tvg-name="TLC SD" tvg-logo="" group-title="Romania",TLC SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*** SPORT ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",*** SPORT ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Extra" tvg-logo="" group-title="Romania",Sport Extra
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/56492.m3u8
+#EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="TELEKOM SPORT 1 FHD" tvg-logo="https://i.ibb.co/yBZMtZD/telekom-sport-1.jpg" group-title="Romania",TELEKOM SPORT 1 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8129.m3u8
+#EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="TELEKOM SPORT 2 FHD" tvg-logo="https://i.ibb.co/ngP1410/telekom-sport-2.jpg" group-title="Romania",TELEKOM SPORT 2 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8130.m3u8
+#EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="TELEKOM SPORT 3 FHD" tvg-logo="https://i.ibb.co/RpRZgH5/desc-rcare-2.png" group-title="Romania",TELEKOM SPORT 3 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8131.m3u8
+#EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="TELEKOM SPORT 4 FHD" tvg-logo="https://i.ibb.co/Z65Dffj/desc-rcare.png" group-title="Romania",TELEKOM SPORT 4 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8132.m3u8
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EUROSPORT 1 SD" tvg-logo="https://i.ibb.co/WGr51cx/eurosport-1.jpg" group-title="Romania",EUROSPORT 1 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 SD (cablu)" tvg-logo="https://i.ibb.co/WGr51cx/eurosport-1.jpg" group-title="Romania",EUROSPORT 1 SD (cablu)
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/30748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="Romania",EUROSPORT 1 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD (cablu)" tvg-logo="https://i.ibb.co/WGr51cx/eurosport-1.jpg" group-title="Romania",EUROSPORT 1 FHD (cablu)
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/30749.m3u8
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EUROSPORT 2 SD" tvg-logo="https://i.ibb.co/r0CfJ68/eurosport-2-1.jpg" group-title="Romania",EUROSPORT 2 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8128.m3u8
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EUROSPORT 2 FHD" tvg-logo="" group-title="Romania",EUROSPORT 2 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO SPORT 4K" tvg-logo="http://212.8.252.59/logos/romanesti/eurosport_4k.png" group-title="Romania",EURO SPORT 4K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41845.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 SD" tvg-logo="" group-title="Romania",DIGI SPORT 1 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8118.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 FHD" tvg-logo="" group-title="Romania",DIGI SPORT 1 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8117.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 2K" tvg-logo="https://i.ibb.co/f4tWJM2/digi-sport-1.png" group-title="Romania",DIGI SPORT 1 2K
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8116.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 SD" tvg-logo="" group-title="Romania",DIGI SPORT 2 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8120.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 FHD" tvg-logo="" group-title="Romania",DIGI SPORT 2 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8119.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3 SD" tvg-logo="" group-title="Romania",DIGI SPORT 3 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8122.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3 FHD" tvg-logo="" group-title="Romania",DIGI SPORT 3 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8121.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4 SD" tvg-logo="https://i.ibb.co/cbs7kWt/digi-sport-4.png" group-title="Romania",DIGI SPORT 4 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8124.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4 FHD" tvg-logo="https://i.ibb.co/cbs7kWt/digi-sport-4.png" group-title="Romania",DIGI SPORT 4 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8123.m3u8
+#EXTINF:-1 tvg-id="looksport.ro" tvg-name="LOOK SPORT SD" tvg-logo="https://i.ibb.co/frjPctW/looksport.png" group-title="Romania",LOOK SPORT SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8134.m3u8
+#EXTINF:-1 tvg-id="looksport.ro" tvg-name="LOOK SPORT FHD" tvg-logo="https://i.ibb.co/frjPctW/looksport.png" group-title="Romania",LOOK SPORT FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Look Sport 2 FHD" tvg-logo="https://i.ibb.co/h8MwnfR/looksport2.jpg" group-title="Romania",Look Sport 2 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/30746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Look Sport 3 FHD" tvg-logo="https://i.ibb.co/jbpVgH9/Look-Sport-3.jpg" group-title="Romania",Look Sport 3 FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/30747.m3u8
+#EXTINF:-1 tvg-id="lookplus.ro" tvg-name="Look Plus" tvg-logo="https://i.ibb.co/VY2s9SJ/ay1wb-HVz-Ln-Bu-Zy-Zo-YXNo-PTZh-OTNh-ZDdm-NGE3-MGRm-N2-I3-Nzlm-Zjgw-Y2-M2-Mj-Jh-Mm-Q2.png" group-title="Romania",Look Plus
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8220.m3u8
+#EXTINF:-1 tvg-id="lookplus.ro" tvg-name="LOOK PLUS SD" tvg-logo="https://i.ibb.co/VY2s9SJ/ay1wb-HVz-Ln-Bu-Zy-Zo-YXNo-PTZh-OTNh-ZDdm-NGE3-MGRm-N2-I3-Nzlm-Zjgw-Y2-M2-Mj-Jh-Mm-Q2.png" group-title="Romania",LOOK PLUS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOOK PLUS FHD" tvg-logo="https://i.ibb.co/VY2s9SJ/ay1wb-HVz-Ln-Bu-Zy-Zo-YXNo-PTZh-OTNh-ZDdm-NGE3-MGRm-N2-I3-Nzlm-Zjgw-Y2-M2-Mj-Jh-Mm-Q2.png" group-title="Romania",LOOK PLUS FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/42852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*** DESENE ANIMATE ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",*** DESENE ANIMATE ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8248.m3u8
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="DUCK TV SD" tvg-logo="https://i.ibb.co/NCcdd82/duck-tv.jpg" group-title="Romania",DUCK TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8139.m3u8
+#EXTINF:-1 tvg-id="nicktoons.ro" tvg-name="NICKTOONS SD" tvg-logo="https://i.ibb.co/YRwx5p3/desc-rcare-17.png" group-title="Romania",NICKTOONS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8144.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.ro" tvg-name="NICKELODEON SD" tvg-logo="" group-title="Romania",NICKELODEON SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8142.m3u8
+#EXTINF:-1 tvg-id="nickjr.ro" tvg-name="NICK JR SD" tvg-logo="https://i.ibb.co/6BJHq4t/images-1.png" group-title="Romania",NICK JR SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8145.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ro" tvg-name="DISNEY JUNIOR SD" tvg-logo="" group-title="Romania",DISNEY JUNIOR SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8138.m3u8
+#EXTINF:-1 tvg-id="disneychannel.ro" tvg-name="DISNEY CHANNEL SD" tvg-logo="" group-title="Romania",DISNEY CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8137.m3u8
+#EXTINF:-1 tvg-id="boomerang.ro" tvg-name="BOOMERANG SD" tvg-logo="" group-title="Romania",BOOMERANG SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8143.m3u8
+#EXTINF:-1 tvg-id="minimax.ro" tvg-name="MINIMAX SD" tvg-logo="" group-title="Romania",MINIMAX SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8141.m3u8
+#EXTINF:-1 tvg-id="megamax.ro" tvg-name="MEGAMAX SD" tvg-logo="https://i.ibb.co/PxsLHfb/images-4.jpg" group-title="Romania",MEGAMAX SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8140.m3u8
+#EXTINF:-1 tvg-id="jimjam.ro" tvg-name="Jim Jam" tvg-logo="" group-title="Romania",Jim Jam
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8234.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ro" tvg-name="CARTOON NETWORK SD" tvg-logo="" group-title="Romania",CARTOON NETWORK SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*** MUZICA ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",*** MUZICA ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8249.m3u8
+#EXTINF:-1 tvg-id="magictv.ro" tvg-name="MAGIC TV SD" tvg-logo="" group-title="Romania",MAGIC TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8173.m3u8
+#EXTINF:-1 tvg-id="taraftv.ro" tvg-name="TARAF TV SD" tvg-logo="https://i.ibb.co/JphHQ9z/taraf-tv.jpg" group-title="Romania",TARAF TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8181.m3u8
+#EXTINF:-1 tvg-id="zutv.ro" tvg-name="ZU TV FHD" tvg-logo="https://i.ibb.co/WG0gvQ7/d-HYuc-G5n-Jmhhc2g9-NDk0-YTcy-Y2-Ex-Ym-Uy-Yz-Q5-ODJi-NGE1-M2-Ux-Ym-Ez-Y2-M1-ZDU.png" group-title="Romania",ZU TV FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8170.m3u8
+#EXTINF:-1 tvg-id="vh1.ro" tvg-name="VH1 SD" tvg-logo="" group-title="Romania",VH1 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV SD" tvg-logo="https://i.ibb.co/bKXLR04/u-tv.jpg" group-title="Romania",UTV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8177.m3u8
+#EXTINF:-1 tvg-id="Dutv.hr" tvg-name="UTV FHD" tvg-logo="https://i.ibb.co/bKXLR04/u-tv.jpg" group-title="Romania",UTV FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8176.m3u8
+#EXTINF:-1 tvg-id="musicchannel.ro" tvg-name="MUSIC CHANNEL SD" tvg-logo="https://i.ibb.co/BTz96C5/music-channel.jpg" group-title="Romania",MUSIC CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8178.m3u8
+#EXTINF:-1 tvg-id="hitmusicchannel.ro" tvg-name="HIT MUSIC CHANNEL SD" tvg-logo="https://i.ibb.co/XJqpjGs/hit-music-channel.jpg" group-title="Romania",HIT MUSIC CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8184.m3u8
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="First Music" tvg-logo="https://i.ibb.co/pWVDK8r/First-Music.png" group-title="Romania",First Music
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="First Music FHD" tvg-logo="" group-title="Romania",First Music FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8217.m3u8
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="First Music 4k" tvg-logo="https://i.ibb.co/pWVDK8r/First-Music.png" group-title="Romania",First Music 4k
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora tv" tvg-logo="https://i.ibb.co/Dz9625z/diadpora-2.png" group-title="Romania",Diaspora tv
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/44795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dibi TV Manele" tvg-logo="https://i.ibb.co/VJCydVb/dibi-tv.png" group-title="Romania",Dibi TV Manele
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/20700.m3u8
+#EXTINF:-1 tvg-id="vh1classic.ro" tvg-name="VH1 Classic" tvg-logo="https://i.ibb.co/G0nHD9v/VH1-Classic.png" group-title="Romania",VH1 Classic
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8226.m3u8
+#EXTINF:-1 tvg-id="BusuiocTV.md" tvg-name="BusuiocTV" tvg-logo="https://i.ibb.co/cYCxxc6/Busuioc-TV.jpg" group-title="Romania",BusuiocTV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8232.m3u8
+#EXTINF:-1 tvg-id="MTVSeries.il" tvg-name="MTV Europe" tvg-logo="" group-title="Romania",MTV Europe
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8214.m3u8
+#EXTINF:-1 tvg-id="mtvrocks.ro" tvg-name="MTV ROCKS SD" tvg-logo="https://i.ibb.co/t3XNkzp/desc-rcare-20.png" group-title="Romania",MTV ROCKS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8172.m3u8
+#EXTINF:-1 tvg-id="mtvhits.ro" tvg-name="MTV Hits" tvg-logo="" group-title="Romania",MTV Hits
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8216.m3u8
+#EXTINF:-1 tvg-id="mtvdance.ro" tvg-name="MTV Dance" tvg-logo="" group-title="Romania",MTV Dance
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8215.m3u8
+#EXTINF:-1 tvg-id="moozro.ro" tvg-name="Mooz RO!" tvg-logo="https://i.ibb.co/pbykXdq/Mooz-RO.jpg" group-title="Romania",Mooz RO!
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8228.m3u8
+#EXTINF:-1 tvg-id="moozdance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.ibb.co/Xzx3MFY/Mooz-Dance.jpg" group-title="Romania",Mooz Dance
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8227.m3u8
+#EXTINF:-1 tvg-id="mtvlive.ro" tvg-name="MTV LIVE FHD" tvg-logo="https://i.ibb.co/0Yp6g06/desc-rcare-21.png" group-title="Romania",MTV LIVE FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8171.m3u8
+#EXTINF:-1 tvg-id="rocktv.ro" tvg-name="ROCK TV SD" tvg-logo="https://i.ibb.co/GF34158/desc-rcare-1.png" group-title="Romania",ROCK TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8174.m3u8
+#EXTINF:-1 tvg-id="moozro.ro" tvg-name="MOOZ FHD" tvg-logo="https://i.ibb.co/Yjc0qpQ/MOOZ-FHD.jpg" group-title="Romania",MOOZ FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KronehitTV FHD" tvg-logo="https://i.ibb.co/xz3DLbr/Kronehit-TV.jpg" group-title="Romania",KronehitTV FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8238.m3u8
+#EXTINF:-1 tvg-id="kisstv.ro" tvg-name="KISS TV SD" tvg-logo="" group-title="Romania",KISS TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HORA TV SD" tvg-logo="https://i.ibb.co/bKvzFfK/YXR2-Ln-Bu-Zy-Zo-YXNo-PWYz-Mm-Yw-NDI1-ZDhl-YWZm-ZDE5-Y2-E5-Nz-Mw-Mj-Jh-MWQx-MGI0-1.png" group-title="Romania",HORA TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8180.m3u8
+#EXTINF:-1 tvg-id="favorit.ro" tvg-name="FAVORIT TV SD" tvg-logo="https://i.ibb.co/wMkjWTL/favorit-tv.jpg" group-title="Romania",FAVORIT TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8182.m3u8
+#EXTINF:-1 tvg-id="etnotv.ro" tvg-name="ETNO TV SD" tvg-logo="https://i.ibb.co/9VydptD/by5wbmcma-GFza-D00-MDQ0-Mj-Vk-Mj-Zh-MWNi-Mjkz-Yz-Bl-NGY5-Mm-Uw-Y2-Y4-YTJj-MA.png" group-title="Romania",ETNO TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="***DOCUMENTARE***" tvg-logo="" group-title="Romania",***DOCUMENTARE***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/56496.m3u8
+#EXTINF:-1 tvg-id="bbcearth.ro" tvg-name="BBC EARTH FHD" tvg-logo="" group-title="Romania",BBC EARTH FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/19390.m3u8
+#EXTINF:-1 tvg-id="viasatnature.ro" tvg-name="VIASAT NATURE FHD" tvg-logo="" group-title="Romania",VIASAT NATURE FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARCADIA WORLD FHD" tvg-logo="" group-title="Romania",ARCADIA WORLD FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/38768.m3u8
+#EXTINF:-1 tvg-id="viasatnature.ro" tvg-name="Viasat Nature FHD" tvg-logo="" group-title="Romania",Viasat Nature FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/7416.m3u8
+#EXTINF:-1 tvg-id="viasathistory.ro" tvg-name="VIASAT HISTORY SD" tvg-logo="" group-title="Romania",VIASAT HISTORY SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8165.m3u8
+#EXTINF:-1 tvg-id="viasathistory.ro" tvg-name="VIASAT HISTORY FHD" tvg-logo="" group-title="Romania",VIASAT HISTORY FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8164.m3u8
+#EXTINF:-1 tvg-id="viasatexplorer.ro" tvg-name="VIASAT EXPLORE SD" tvg-logo="" group-title="Romania",VIASAT EXPLORE SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8167.m3u8
+#EXTINF:-1 tvg-id="History.fi" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://i.ibb.co/3h10HZz/desc-rcare-9.jpg" group-title="Romania",HISTORY CHANNEL FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8168.m3u8
+#EXTINF:-1 tvg-id="natgeo.ro" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="Romania",NATIONAL GEOGRAPHIC SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8154.m3u8
+#EXTINF:-1 tvg-id="natgeo.ro" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Romania",NATIONAL GEOGRAPHIC FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTX" tvg-logo="" group-title="Romania",DTX
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8222.m3u8
+#EXTINF:-1 tvg-id="cnn.ro" tvg-name="CNN" tvg-logo="" group-title="Romania",CNN
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8225.m3u8
+#EXTINF:-1 tvg-id="travelmix.ro" tvg-name="Travel MIX FHD" tvg-logo="https://i.ibb.co/h2JKJss/desc-rcare-6.jpg" group-title="Romania",Travel MIX FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home and Garden TV HD" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDE5JTJGMTIl/MkYzMSUyRjExNDcyNjlfMTE0NzI2OV9s/b2dvLXRyYWluLWhndHYtdGVhbC0xLnBu/ZyZoYXNoPTQzNzk1Y2JhOTVkMTZlYzAyMDhiZjNlZjIwM2M4YmJh.png" group-title="Romania",Home and Garden TV HD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41637.m3u8
+#EXTINF:-1 tvg-id="fineliving.ro" tvg-name="FINE LIVING" tvg-logo="" group-title="Romania",FINE LIVING
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8243.m3u8
+#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="Romania",NAT GEO WILD SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8156.m3u8
+#EXTINF:-1 tvg-id="crimeinvest.ro" tvg-name="Crime & Investigation" tvg-logo="" group-title="Romania",Crime & Investigation
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8223.m3u8
+#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="Romania",NAT GEO WILD FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8155.m3u8
+#EXTINF:-1 tvg-id="eentertain.ro" tvg-name="E! ENTERTAINMENT SD" tvg-logo="https://i.ibb.co/yYWK2QK/desc-rcare-13.png" group-title="Romania",E! ENTERTAINMENT SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8084.m3u8
+#EXTINF:-1 tvg-id="eentertain.ro" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="" group-title="Romania",E! ENTERTAINMENT FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8083.m3u8
+#EXTINF:-1 tvg-id="discturboxtra.ro" tvg-name="DISCOVERY TURBO XTRA FHD" tvg-logo="https://i.ibb.co/bJKRNFy/desc-rcare-10.jpg" group-title="Romania",DISCOVERY TURBO XTRA FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8159.m3u8
+#EXTINF:-1 tvg-id="discshowcase.ro" tvg-name="DISCOVERY SHOWCASE FHD" tvg-logo="" group-title="Romania",DISCOVERY SHOWCASE FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8158.m3u8
+#EXTINF:-1 tvg-id="discoscience.ro" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="" group-title="Romania",DISCOVERY SCIENCE FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8160.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.ro" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="Romania",DISCOVERY CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8157.m3u8
+#EXTINF:-1 tvg-id="travelmix.ro" tvg-name="TRAVEL MIX SD" tvg-logo="https://i.ibb.co/h2JKJss/desc-rcare-6.jpg" group-title="Romania",TRAVEL MIX SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8087.m3u8
+#EXTINF:-1 tvg-id="travelchannel.ro" tvg-name="TRAVEL CHANNEL SD" tvg-logo="" group-title="Romania",TRAVEL CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8086.m3u8
+#EXTINF:-1 tvg-id="cbsreality.ro" tvg-name="CBS Reality" tvg-logo="" group-title="Romania",CBS Reality
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/20207.m3u8
+#EXTINF:-1 tvg-id="travelchannel.ro" tvg-name="TRAVEL CHANNEL FHD" tvg-logo="" group-title="Romania",TRAVEL CHANNEL FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8085.m3u8
+#EXTINF:-1 tvg-id="investdisco.ro" tvg-name="INVESTIGATION DISCOVERY FHD" tvg-logo="" group-title="Romania",INVESTIGATION DISCOVERY FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8161.m3u8
+#EXTINF:-1 tvg-id="fishinghunting.ro" tvg-name="FISHING AND HUNTING SD" tvg-logo="" group-title="Romania",FISHING AND HUNTING SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8163.m3u8
+#EXTINF:-1 tvg-id="digilife.ro" tvg-name="DIGI LIFE SD" tvg-logo="https://i.ibb.co/7pJ918Z/digi-life.png" group-title="Romania",DIGI LIFE SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8150.m3u8
+#EXTINF:-1 tvg-id="fashiontv.ro" tvg-name="FASHION TV SD" tvg-logo="" group-title="Romania",FASHION TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8068.m3u8
+#EXTINF:-1 tvg-id="digiworld.ro" tvg-name="DIGI WORLD SD" tvg-logo="https://i.ibb.co/kH8ZLKB/digi-world.png" group-title="Romania",DIGI WORLD SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8148.m3u8
+#EXTINF:-1 tvg-id="digiworld.ro" tvg-name="DIGI WORLD FHD" tvg-logo="https://i.ibb.co/kH8ZLKB/digi-world.png" group-title="Romania",DIGI WORLD FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8147.m3u8
+#EXTINF:-1 tvg-id="diva.ro" tvg-name="DIVA CHANNEL SD" tvg-logo="https://i.ibb.co/wdSNB88/desc-rcare-1.png" group-title="Romania",DIVA CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8111.m3u8
+#EXTINF:-1 tvg-id="bbcearth.ro" tvg-name="BBC EARTH SD" tvg-logo="https://i.ibb.co/qNQ6878/desc-rcare-3.jpg" group-title="Romania",BBC EARTH SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8162.m3u8
+#EXTINF:-1 tvg-id="animalplanet.ro" tvg-name="ANIMAL PLANET FHD" tvg-logo="" group-title="Romania",ANIMAL PLANET FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8146.m3u8
+#EXTINF:-1 tvg-id="digilife.ro" tvg-name="DIGI LIFE FHD" tvg-logo="https://i.ibb.co/7pJ918Z/digi-life.png" group-title="Romania",DIGI LIFE FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8149.m3u8
+#EXTINF:-1 tvg-id="digianimalworld.ro" tvg-name="DIGI ANIMAL WORLD SD" tvg-logo="https://i.ibb.co/WgtdTT3/digi-animal-world.png" group-title="Romania",DIGI ANIMAL WORLD SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8152.m3u8
+#EXTINF:-1 tvg-id="digianimalworld.ro" tvg-name="DIGI ANIMAL WORLD FHD" tvg-logo="https://i.ibb.co/WgtdTT3/digi-animal-world.png" group-title="Romania",DIGI ANIMAL WORLD FHD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DA VINCI LEARNING SD" tvg-logo="" group-title="Romania",DA VINCI LEARNING SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8067.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.ro" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="Romania",PARAMOUNT CHANNEL SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*** Canale 24/7 ***" tvg-logo="https://i.ibb.co/thKD0bc/Whats-App-Image-2019-11-06-at-11-03-33.jpg" group-title="Romania",*** Canale 24/7 ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="***RELIGIE***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",***RELIGIE***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8250.m3u8
+#EXTINF:-1 tvg-id="trinitastv.ro" tvg-name="TRINITAS TV SD" tvg-logo="https://i.ibb.co/YZ4WX6L/trinitas-tv.jpg" group-title="Romania",TRINITAS TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8066.m3u8
+#EXTINF:-1 tvg-id="alfaomegatv.ro" tvg-name="ALFA OMEGA SD" tvg-logo="https://i.ibb.co/tQDY7Bz/alfa-omega-tv.jpg" group-title="Romania",ALFA OMEGA SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8063.m3u8
+#EXTINF:-1 tvg-id="sperantatv.ro" tvg-name="SPERANTA TV SD" tvg-logo="https://i.ibb.co/McBwSYF/speranta-tv.jpg" group-title="Romania",SPERANTA TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*** REGIONALE ***" tvg-logo="https://i.ibb.co/RbBmk80/Whats-App-Image-2019-11-26-at-15-31-57-1.jpg" group-title="Romania",*** REGIONALE ***
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOMAX TV SD" tvg-logo="https://i.ibb.co/M1FW2pp/desc-rcare-12.png" group-title="Romania",SOMAX TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VP SD" tvg-logo="https://i.ibb.co/mGccrB1/desc-rcare-11.png" group-title="Romania",VP SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8196.m3u8
+#EXTINF:-1 tvg-id="nasultv.ro" tvg-name="NASUL TV SD" tvg-logo="https://i.ibb.co/qm7hm73/desc-rcare-11.jpg" group-title="Romania",NASUL TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8061.m3u8
+#EXTINF:-1 tvg-id="agrotv.ro" tvg-name="AGRO TV SD" tvg-logo="https://i.ibb.co/SVzrwCy/desc-rcare-18.jpg" group-title="Romania",AGRO TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8062.m3u8
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="TVR International" tvg-logo="https://i.ibb.co/tYmNpxh/desc-rcare.jpg" group-title="Romania",TVR International
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopasTV" tvg-logo="https://i.ibb.co/2hyy3SM/PopasTV.jpg" group-title="Romania",PopasTV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8230.m3u8
+#EXTINF:-1 tvg-id="Noroc.md" tvg-name="NorocTV" tvg-logo="https://i.ibb.co/60mxF2q/NorocTV.jpg" group-title="Romania",NorocTV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GurinelTV" tvg-logo="" group-title="Romania",GurinelTV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8235.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELESTAR1 SD" tvg-logo="" group-title="Romania",TELESTAR1 SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8074.m3u8
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="TELE MOLDOVA PLUS SD" tvg-logo="" group-title="Romania",TELE MOLDOVA PLUS SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8202.m3u8
+#EXTINF:-1 tvg-id="tvpaprika.ro" tvg-name="TV PAPRIKA SD" tvg-logo="" group-title="Romania",TV PAPRIKA SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8070.m3u8
+#EXTINF:-1 tvg-id="HustlerTV.fr" tvg-name="Stirile ProTV" tvg-logo="" group-title="Romania",Stirile ProTV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SANGEORZ TV SD" tvg-logo="" group-title="Romania",SANGEORZ TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8197.m3u8
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="S TV SD" tvg-logo="" group-title="Romania",S TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8189.m3u8
+#EXTINF:-1 tvg-id="profit.ro" tvg-name="PROFIT TV RO SD" tvg-logo="" group-title="Romania",PROFIT TV RO SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8072.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="KAPITAL TV SD" tvg-logo="" group-title="Romania",KAPITAL TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8079.m3u8
+#EXTINF:-1 tvg-id="inedittv.ro" tvg-name="INEDIT TV SD" tvg-logo="" group-title="Romania",INEDIT TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8080.m3u8
+#EXTINF:-1 tvg-id="CreateWGBHDT3.us" tvg-name="CROMTEL TV SD" tvg-logo="" group-title="Romania",CROMTEL TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8187.m3u8
+#EXTINF:-1 tvg-id="bucurestitv.ro" tvg-name="BUCURESTI TV SD" tvg-logo="" group-title="Romania",BUCURESTI TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BUCOVINA TV SD" tvg-logo="" group-title="Romania",BUCOVINA TV SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA MONDEN SD" tvg-logo="" group-title="Romania",ANTENA MONDEN SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8205.m3u8
+#EXTINF:-1 tvg-id="Antena3.cl" tvg-name="ANTENA COOK&PLAY SD" tvg-logo="" group-title="Romania",ANTENA COOK&PLAY SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8206.m3u8
+#EXTINF:-1 tvg-id="Antena3.cl" tvg-name="ANTENA COMEDY PLAY SD" tvg-logo="" group-title="Romania",ANTENA COMEDY PLAY SD
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/8204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Actualitatea TV" tvg-logo="http://212.8.252.59/logos/romanesti/actualitatea_tv.png" group-title="Romania",Actualitatea TV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Omega TV" tvg-logo="http://212.8.252.59/logos/romanesti/alfa_omega.png" group-title="Romania",Alfa Omega TV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-logo="http://212.8.252.59/logos/romanesti/antena_comedy.png" group-title="Romania",Antena Comedy
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-logo="http://212.8.252.59/logos/romanesti/antena_monden.png" group-title="Romania",Antena Monden
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA PLAY COMEDY" tvg-logo="http://212.8.252.59/logos/romanesti/antena_play.png" group-title="Romania",ANTENA PLAY COMEDY
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 33" tvg-logo="http://212.8.252.59/logos/romanesti/canal33.png" group-title="Romania",CANAL 33
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDA TV" tvg-logo="http://212.8.252.59/logos/romanesti/ida_tv.png" group-title="Romania",IDA TV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Intermedia TV" tvg-logo="http://212.8.252.59/logos/romanesti/intermedia_tv.png" group-title="Romania",Intermedia TV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kapital TV" tvg-logo="http://212.8.252.59/logos/romanesti/kapital_tv.png" group-title="Romania",Kapital TV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noroc TV" tvg-logo="http://212.8.252.59/logos/romanesti/noroc_tv.png" group-title="Romania",Noroc TV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Profit.ro" tvg-logo="http://212.8.252.59/logos/romanesti/profitro.png" group-title="Romania",Profit.ro
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STV" tvg-logo="http://212.8.252.59/logos/romanesti/sangeorz_tv.png" group-title="Romania",STV
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telestar 1" tvg-logo="http://212.8.252.59/logos/romanesti/telestar1.png" group-title="Romania",Telestar 1
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Elita" tvg-logo="http://212.8.252.59/logos/romanesti/elita_tv.png" group-title="Romania",TV Elita
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sat" tvg-logo="http://212.8.252.59/logos/romanesti/tvsat.png" group-title="Romania",TV Sat
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sud Est" tvg-logo="http://212.8.252.59/logos/romanesti/tv_sud_est.png" group-title="Romania",TV Sud Est
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Cluj" tvg-logo="http://212.8.252.59/logos/romanesti/tvr_cluj.png" group-title="Romania",TVR Cluj
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Craiova" tvg-logo="http://212.8.252.59/logos/romanesti/tvr_craiova.png" group-title="Romania",TVR Craiova
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Iasi" tvg-logo="http://212.8.252.59/logos/romanesti/tvr_iasi.png" group-title="Romania",TVR Iasi
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR MOLDOVA" tvg-logo="http://212.8.252.59/logos/romanesti/tvr_moldova.png" group-title="Romania",TVR MOLDOVA
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Targu Mures" tvg-logo="http://212.8.252.59/logos/romanesti/tvr_tg_mures.png" group-title="Romania",TVR Targu Mures
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Timisoara" tvg-logo="http://212.8.252.59/logos/romanesti/tvr_timisoara.png" group-title="Romania",TVR Timisoara
+http://provider-us.com:8080/live/kozak-laszlo/qGTAXKmGCw/41731.m3u8
